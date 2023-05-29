@@ -1,5 +1,5 @@
 # Weathering
 Weather checker in web
 
-#imitated 
+# Imitated
 the work of ASMRprog
